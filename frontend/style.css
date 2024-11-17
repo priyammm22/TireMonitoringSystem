@@ -1,0 +1,68 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+header, section, footer {
+    margin: 20px 0;
+}
+
+#driving-pattern {
+    font-size: 1.5rem;
+    animation: glow 2s infinite alternate;
+}
+
+.tire {
+    display: inline-block;
+    margin: 20px;
+    border: 2px solid neon blue;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.tire img {
+    width: 100px;
+    height: auto;
+}
+
+.icons img {
+    width: 30px;
+    height: auto;
+    margin: 5px;
+}
+
+footer {
+    font-size: 1rem;
+}
+
+@keyframes glow {
+    from {
+        box-shadow: 0 0 5px #00f;
+    }
+    to {
+        box-shadow: 0 0 20px #00f;
+    }
+}
+
+/* Animations for different driving patterns */
+body.aggressive {
+    background-color: red;
+    animation: none;
+}
+
+body.smooth {
+    background-color: green;
+    animation: none;
+}
+
+body.moderate {
+    background-color: blue;
+    animation: none;
+}

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tire Monitoring System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header id="driving-pattern">
+            <h1>Current Driving Pattern: <span id="pattern-status">Moderate</span></h1>
+        </header>
+        <section id="recommendation">
+            <h2>Recommendation:</h2>
+            <p id="recommendation-text">Drive steadily to maintain tire health.</p>
+        </section>
+        <section id="tire-info">
+            <div class="tire" id="tire1">
+                <img src="tire-image.png" alt="Tire 1">
+                <p>Remaining Life: <span id="life-tire1">-</span> KM</p>
+                <p>KMs Run: <span id="km-run-tire1">-</span> KM</p>
+                <div class="icons">
+                    <img src="air-icon.png" alt="Air">
+                    <img src="temperature-icon.png" alt="Temperature">
+                    <img src="pressure-icon.png" alt="Pressure">
+                </div>
+            </div>
+            <div class="tire" id="tire2">
+                <img src="tire-image.png" alt="Tire 2">
+                <p>Remaining Life: <span id="life-tire2">-</span> KM</p>
+                <p>KMs Run: <span id="km-run-tire2">-</span> KM</p>
+                <div class="icons">
+                    <img src="air-icon.png" alt="Air">
+                    <img src="temperature-icon.png" alt="Temperature">
+                    <img src="pressure-icon.png" alt="Pressure">
+                </div>
+            </div>
+            <div class="tire" id="tire3">
+                <img src="tire-image.png" alt="Tire 3">
+                <p>Remaining Life: <span id="life-tire3">-</span> KM</p>
+                <p>KMs Run: <span id="km-run-tire3">-</span> KM</p>
+                <div class="icons">
+                    <img src="air-icon.png" alt="Air">
+                    <img src="temperature-icon.png" alt="Temperature">
+                    <img src="pressure-icon.png" alt="Pressure">
+                </div>
+            </div>
+            <div class="tire" id="tire4">
+                <img src="tire-image.png" alt="Tire 4">
+                <p>Remaining Life: <span id="life-tire4">-</span> KM</p>
+                <p>KMs Run: <span id="km-run-tire4">-</span> KM</p>
+                <div class="icons">
+                    <img src="air-icon.png" alt="Air">
+                    <img src="temperature-icon.png" alt="Temperature">
+                    <img src="pressure-icon.png" alt="Pressure">
+                </div>
+            </div>
+        </section>
+        <footer>
+            <p id="current-time"></p>
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

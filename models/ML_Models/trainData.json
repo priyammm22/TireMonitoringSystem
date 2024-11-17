@@ -1,0 +1,19 @@
+[
+    { "degradationInPercent": 0, "NoOfKmalreadyRun": 0, "drivingPattern": "smooth", "remainingKm": 50000 },
+    { "degradationInPercent": 1, "NoOfKmalreadyRun": 100, "drivingPattern": "smooth", "remainingKm": 49950 },
+    { "degradationInPercent": 3, "NoOfKmalreadyRun": 300, "drivingPattern": "smooth", "remainingKm": 49850 },
+    { "degradationInPercent": 5, "NoOfKmalreadyRun": 500, "drivingPattern": "moderate", "remainingKm": 48000 },
+    { "degradationInPercent": 10, "NoOfKmalreadyRun": 1000, "drivingPattern": "moderate", "remainingKm": 45000 },
+    { "degradationInPercent": 15, "NoOfKmalreadyRun": 1500, "drivingPattern": "moderate", "remainingKm": 42000 },
+    { "degradationInPercent": 20, "NoOfKmalreadyRun": 2000, "drivingPattern": "aggressive", "remainingKm": 40000 },
+    { "degradationInPercent": 25, "NoOfKmalreadyRun": 2500, "drivingPattern": "aggressive", "remainingKm": 37000 },
+    { "degradationInPercent": 30, "NoOfKmalreadyRun": 3000, "drivingPattern": "aggressive", "remainingKm": 35000 },
+    { "degradationInPercent": 40, "NoOfKmalreadyRun": 4000, "drivingPattern": "aggressive", "remainingKm": 30000 },
+    { "degradationInPercent": 50, "NoOfKmalreadyRun": 5000, "drivingPattern": "moderate", "remainingKm": 25000 },
+    { "degradationInPercent": 60, "NoOfKmalreadyRun": 6000, "drivingPattern": "moderate", "remainingKm": 20000 },
+    { "degradationInPercent": 70, "NoOfKmalreadyRun": 7000, "drivingPattern": "aggressive", "remainingKm": 15000 },
+    { "degradationInPercent": 80, "NoOfKmalreadyRun": 8000, "drivingPattern": "aggressive", "remainingKm": 10000 },
+    { "degradationInPercent": 90, "NoOfKmalreadyRun": 9000, "drivingPattern": "aggressive", "remainingKm": 5000 },
+    { "degradationInPercent": 100, "NoOfKmalreadyRun": 10000, "drivingPattern": "aggressive", "remainingKm": 0 }
+  ]
+  
