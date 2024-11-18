@@ -1,0 +1,2302 @@
+[
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 63,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 9,
+              "km": 1577
+          },
+          "tire2": {
+              "degradationPercentage": 7,
+              "km": 1073
+          },
+          "tire3": {
+              "degradationPercentage": 5,
+              "km": 1298
+          },
+          "tire4": {
+              "degradationPercentage": 84,
+              "km": 2037
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 80,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 11,
+              "km": 1636
+          },
+          "tire2": {
+              "degradationPercentage": 8,
+              "km": 1088
+          },
+          "tire3": {
+              "degradationPercentage": 5,
+              "km": 1326
+          },
+          "tire4": {
+              "degradationPercentage": 84,
+              "km": 2075
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 10,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 12,
+              "km": 1702
+          },
+          "tire2": {
+              "degradationPercentage": 8,
+              "km": 1164
+          },
+          "tire3": {
+              "degradationPercentage": 5,
+              "km": 1417
+          },
+          "tire4": {
+              "degradationPercentage": 84,
+              "km": 2115
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 74,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 13,
+              "km": 1741
+          },
+          "tire2": {
+              "degradationPercentage": 9,
+              "km": 1205
+          },
+          "tire3": {
+              "degradationPercentage": 6,
+              "km": 1480
+          },
+          "tire4": {
+              "degradationPercentage": 86,
+              "km": 2134
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 25,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 14,
+              "km": 1822
+          },
+          "tire2": {
+              "degradationPercentage": 9,
+              "km": 1297
+          },
+          "tire3": {
+              "degradationPercentage": 6,
+              "km": 1559
+          },
+          "tire4": {
+              "degradationPercentage": 87,
+              "km": 2185
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 50,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 14,
+              "km": 1876
+          },
+          "tire2": {
+              "degradationPercentage": 9,
+              "km": 1368
+          },
+          "tire3": {
+              "degradationPercentage": 7,
+              "km": 1638
+          },
+          "tire4": {
+              "degradationPercentage": 89,
+              "km": 2240
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 140,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 16,
+              "km": 1888
+          },
+          "tire2": {
+              "degradationPercentage": 9,
+              "km": 1387
+          },
+          "tire3": {
+              "degradationPercentage": 8,
+              "km": 1668
+          },
+          "tire4": {
+              "degradationPercentage": 91,
+              "km": 2290
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 82,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 16,
+              "km": 1980
+          },
+          "tire2": {
+              "degradationPercentage": 10,
+              "km": 1431
+          },
+          "tire3": {
+              "degradationPercentage": 8,
+              "km": 1688
+          },
+          "tire4": {
+              "degradationPercentage": 91,
+              "km": 2355
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 80,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 16,
+              "km": 2002
+          },
+          "tire2": {
+              "degradationPercentage": 12,
+              "km": 1528
+          },
+          "tire3": {
+              "degradationPercentage": 9,
+              "km": 1742
+          },
+          "tire4": {
+              "degradationPercentage": 91,
+              "km": 2366
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 130,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 18,
+              "km": 2050
+          },
+          "tire2": {
+              "degradationPercentage": 14,
+              "km": 1577
+          },
+          "tire3": {
+              "degradationPercentage": 10,
+              "km": 1761
+          },
+          "tire4": {
+              "degradationPercentage": 91,
+              "km": 2411
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 40,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 18,
+              "km": 2145
+          },
+          "tire2": {
+              "degradationPercentage": 14,
+              "km": 1660
+          },
+          "tire3": {
+              "degradationPercentage": 12,
+              "km": 1851
+          },
+          "tire4": {
+              "degradationPercentage": 91,
+              "km": 2488
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 55,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 19,
+              "km": 2207
+          },
+          "tire2": {
+              "degradationPercentage": 16,
+              "km": 1754
+          },
+          "tire3": {
+              "degradationPercentage": 13,
+              "km": 1928
+          },
+          "tire4": {
+              "degradationPercentage": 93,
+              "km": 2515
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 20,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 19,
+              "km": 2301
+          },
+          "tire2": {
+              "degradationPercentage": 16,
+              "km": 1815
+          },
+          "tire3": {
+              "degradationPercentage": 13,
+              "km": 1948
+          },
+          "tire4": {
+              "degradationPercentage": 93,
+              "km": 2586
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 80,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 19,
+              "km": 2334
+          },
+          "tire2": {
+              "degradationPercentage": 18,
+              "km": 1836
+          },
+          "tire3": {
+              "degradationPercentage": 15,
+              "km": 2041
+          },
+          "tire4": {
+              "degradationPercentage": 93,
+              "km": 2646
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 30,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 20,
+              "km": 2426
+          },
+          "tire2": {
+              "degradationPercentage": 19,
+              "km": 1906
+          },
+          "tire3": {
+              "degradationPercentage": 17,
+              "km": 2088
+          },
+          "tire4": {
+              "degradationPercentage": 93,
+              "km": 2672
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 110,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 21,
+              "km": 2495
+          },
+          "tire2": {
+              "degradationPercentage": 21,
+              "km": 1930
+          },
+          "tire3": {
+              "degradationPercentage": 17,
+              "km": 2139
+          },
+          "tire4": {
+              "degradationPercentage": 95,
+              "km": 2732
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 84,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 21,
+              "km": 2540
+          },
+          "tire2": {
+              "degradationPercentage": 23,
+              "km": 1943
+          },
+          "tire3": {
+              "degradationPercentage": 17,
+              "km": 2192
+          },
+          "tire4": {
+              "degradationPercentage": 97,
+              "km": 2754
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 45,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 23,
+              "km": 2568
+          },
+          "tire2": {
+              "degradationPercentage": 25,
+              "km": 2042
+          },
+          "tire3": {
+              "degradationPercentage": 17,
+              "km": 2285
+          },
+          "tire4": {
+              "degradationPercentage": 98,
+              "km": 2796
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 55,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 23,
+              "km": 2645
+          },
+          "tire2": {
+              "degradationPercentage": 25,
+              "km": 2090
+          },
+          "tire3": {
+              "degradationPercentage": 18,
+              "km": 2356
+          },
+          "tire4": {
+              "degradationPercentage": 98,
+              "km": 2874
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 73,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 25,
+              "km": 2714
+          },
+          "tire2": {
+              "degradationPercentage": 25,
+              "km": 2140
+          },
+          "tire3": {
+              "degradationPercentage": 19,
+              "km": 2416
+          },
+          "tire4": {
+              "degradationPercentage": 100,
+              "km": 2906
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 84,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 27,
+              "km": 2803
+          },
+          "tire2": {
+              "degradationPercentage": 26,
+              "km": 2231
+          },
+          "tire3": {
+              "degradationPercentage": 20,
+              "km": 2457
+          },
+          "tire4": {
+              "degradationPercentage": 102,
+              "km": 2965
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 98,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 27,
+              "km": 2889
+          },
+          "tire2": {
+              "degradationPercentage": 26,
+              "km": 2271
+          },
+          "tire3": {
+              "degradationPercentage": 20,
+              "km": 2469
+          },
+          "tire4": {
+              "degradationPercentage": 102,
+              "km": 3019
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 45,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 28,
+              "km": 2933
+          },
+          "tire2": {
+              "degradationPercentage": 28,
+              "km": 2339
+          },
+          "tire3": {
+              "degradationPercentage": 21,
+              "km": 2489
+          },
+          "tire4": {
+              "degradationPercentage": 104,
+              "km": 3050
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 75,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 30,
+              "km": 2968
+          },
+          "tire2": {
+              "degradationPercentage": 30,
+              "km": 2379
+          },
+          "tire3": {
+              "degradationPercentage": 21,
+              "km": 2508
+          },
+          "tire4": {
+              "degradationPercentage": 104,
+              "km": 3104
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 70,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 30,
+              "km": 3045
+          },
+          "tire2": {
+              "degradationPercentage": 31,
+              "km": 2391
+          },
+          "tire3": {
+              "degradationPercentage": 22,
+              "km": 2527
+          },
+          "tire4": {
+              "degradationPercentage": 106,
+              "km": 3177
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 85,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 30,
+              "km": 3109
+          },
+          "tire2": {
+              "degradationPercentage": 32,
+              "km": 2456
+          },
+          "tire3": {
+              "degradationPercentage": 24,
+              "km": 2557
+          },
+          "tire4": {
+              "degradationPercentage": 106,
+              "km": 3262
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 50,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 30,
+              "km": 3147
+          },
+          "tire2": {
+              "degradationPercentage": 34,
+              "km": 2467
+          },
+          "tire3": {
+              "degradationPercentage": 26,
+              "km": 2593
+          },
+          "tire4": {
+              "degradationPercentage": 107,
+              "km": 3286
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 120,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 31,
+              "km": 3229
+          },
+          "tire2": {
+              "degradationPercentage": 34,
+              "km": 2500
+          },
+          "tire3": {
+              "degradationPercentage": 27,
+              "km": 2662
+          },
+          "tire4": {
+              "degradationPercentage": 107,
+              "km": 3313
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 72,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 31,
+              "km": 3291
+          },
+          "tire2": {
+              "degradationPercentage": 34,
+              "km": 2572
+          },
+          "tire3": {
+              "degradationPercentage": 29,
+              "km": 2720
+          },
+          "tire4": {
+              "degradationPercentage": 107,
+              "km": 3324
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 92,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 32,
+              "km": 3326
+          },
+          "tire2": {
+              "degradationPercentage": 34,
+              "km": 2646
+          },
+          "tire3": {
+              "degradationPercentage": 29,
+              "km": 2744
+          },
+          "tire4": {
+              "degradationPercentage": 107,
+              "km": 3409
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 77,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 33,
+              "km": 3366
+          },
+          "tire2": {
+              "degradationPercentage": 34,
+              "km": 2720
+          },
+          "tire3": {
+              "degradationPercentage": 31,
+              "km": 2814
+          },
+          "tire4": {
+              "degradationPercentage": 107,
+              "km": 3462
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 80,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 34,
+              "km": 3415
+          },
+          "tire2": {
+              "degradationPercentage": 35,
+              "km": 2741
+          },
+          "tire3": {
+              "degradationPercentage": 32,
+              "km": 2892
+          },
+          "tire4": {
+              "degradationPercentage": 107,
+              "km": 3481
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 68,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 36,
+              "km": 3475
+          },
+          "tire2": {
+              "degradationPercentage": 35,
+              "km": 2783
+          },
+          "tire3": {
+              "degradationPercentage": 34,
+              "km": 2939
+          },
+          "tire4": {
+              "degradationPercentage": 109,
+              "km": 3576
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 135,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 36,
+              "km": 3503
+          },
+          "tire2": {
+              "degradationPercentage": 36,
+              "km": 2873
+          },
+          "tire3": {
+              "degradationPercentage": 36,
+              "km": 3004
+          },
+          "tire4": {
+              "degradationPercentage": 110,
+              "km": 3626
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 74,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 38,
+              "km": 3598
+          },
+          "tire2": {
+              "degradationPercentage": 38,
+              "km": 2962
+          },
+          "tire3": {
+              "degradationPercentage": 36,
+              "km": 3087
+          },
+          "tire4": {
+              "degradationPercentage": 112,
+              "km": 3645
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 65,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 38,
+              "km": 3646
+          },
+          "tire2": {
+              "degradationPercentage": 39,
+              "km": 2974
+          },
+          "tire3": {
+              "degradationPercentage": 36,
+              "km": 3117
+          },
+          "tire4": {
+              "degradationPercentage": 113,
+              "km": 3741
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 95,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 40,
+              "km": 3744
+          },
+          "tire2": {
+              "degradationPercentage": 39,
+              "km": 3022
+          },
+          "tire3": {
+              "degradationPercentage": 36,
+              "km": 3185
+          },
+          "tire4": {
+              "degradationPercentage": 115,
+              "km": 3815
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 70,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 42,
+              "km": 3843
+          },
+          "tire2": {
+              "degradationPercentage": 39,
+              "km": 3053
+          },
+          "tire3": {
+              "degradationPercentage": 38,
+              "km": 3210
+          },
+          "tire4": {
+              "degradationPercentage": 116,
+              "km": 3831
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 95,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 42,
+              "km": 3865
+          },
+          "tire2": {
+              "degradationPercentage": 40,
+              "km": 3089
+          },
+          "tire3": {
+              "degradationPercentage": 39,
+              "km": 3220
+          },
+          "tire4": {
+              "degradationPercentage": 116,
+              "km": 3885
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 70,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 44,
+              "km": 3887
+          },
+          "tire2": {
+              "degradationPercentage": 40,
+              "km": 3100
+          },
+          "tire3": {
+              "degradationPercentage": 39,
+              "km": 3230
+          },
+          "tire4": {
+              "degradationPercentage": 118,
+              "km": 3897
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 60,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 46,
+              "km": 3941
+          },
+          "tire2": {
+              "degradationPercentage": 40,
+              "km": 3113
+          },
+          "tire3": {
+              "degradationPercentage": 39,
+              "km": 3283
+          },
+          "tire4": {
+              "degradationPercentage": 119,
+              "km": 3934
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 130,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 46,
+              "km": 4002
+          },
+          "tire2": {
+              "degradationPercentage": 42,
+              "km": 3157
+          },
+          "tire3": {
+              "degradationPercentage": 41,
+              "km": 3369
+          },
+          "tire4": {
+              "degradationPercentage": 121,
+              "km": 4028
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 100,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 48,
+              "km": 4060
+          },
+          "tire2": {
+              "degradationPercentage": 43,
+              "km": 3196
+          },
+          "tire3": {
+              "degradationPercentage": 43,
+              "km": 3457
+          },
+          "tire4": {
+              "degradationPercentage": 121,
+              "km": 4041
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 53,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 50,
+              "km": 4128
+          },
+          "tire2": {
+              "degradationPercentage": 45,
+              "km": 3291
+          },
+          "tire3": {
+              "degradationPercentage": 45,
+              "km": 3540
+          },
+          "tire4": {
+              "degradationPercentage": 121,
+              "km": 4087
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 45,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 52,
+              "km": 4201
+          },
+          "tire2": {
+              "degradationPercentage": 46,
+              "km": 3382
+          },
+          "tire3": {
+              "degradationPercentage": 46,
+              "km": 3575
+          },
+          "tire4": {
+              "degradationPercentage": 122,
+              "km": 4100
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 47,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 53,
+              "km": 4244
+          },
+          "tire2": {
+              "degradationPercentage": 47,
+              "km": 3438
+          },
+          "tire3": {
+              "degradationPercentage": 47,
+              "km": 3627
+          },
+          "tire4": {
+              "degradationPercentage": 123,
+              "km": 4122
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 65,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 54,
+              "km": 4337
+          },
+          "tire2": {
+              "degradationPercentage": 47,
+              "km": 3480
+          },
+          "tire3": {
+              "degradationPercentage": 47,
+              "km": 3668
+          },
+          "tire4": {
+              "degradationPercentage": 123,
+              "km": 4199
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 66,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 55,
+              "km": 4419
+          },
+          "tire2": {
+              "degradationPercentage": 48,
+              "km": 3537
+          },
+          "tire3": {
+              "degradationPercentage": 48,
+              "km": 3742
+          },
+          "tire4": {
+              "degradationPercentage": 123,
+              "km": 4245
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 110,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 57,
+              "km": 4513
+          },
+          "tire2": {
+              "degradationPercentage": 48,
+              "km": 3635
+          },
+          "tire3": {
+              "degradationPercentage": 48,
+              "km": 3831
+          },
+          "tire4": {
+              "degradationPercentage": 124,
+              "km": 4286
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 95,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 57,
+              "km": 4605
+          },
+          "tire2": {
+              "degradationPercentage": 48,
+              "km": 3690
+          },
+          "tire3": {
+              "degradationPercentage": 48,
+              "km": 3865
+          },
+          "tire4": {
+              "degradationPercentage": 125,
+              "km": 4368
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 130,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 57,
+              "km": 4620
+          },
+          "tire2": {
+              "degradationPercentage": 50,
+              "km": 3768
+          },
+          "tire3": {
+              "degradationPercentage": 48,
+              "km": 3905
+          },
+          "tire4": {
+              "degradationPercentage": 127,
+              "km": 4440
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 75,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 58,
+              "km": 4684
+          },
+          "tire2": {
+              "degradationPercentage": 50,
+              "km": 3823
+          },
+          "tire3": {
+              "degradationPercentage": 50,
+              "km": 3930
+          },
+          "tire4": {
+              "degradationPercentage": 127,
+              "km": 4458
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 98,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 58,
+              "km": 4749
+          },
+          "tire2": {
+              "degradationPercentage": 51,
+              "km": 3864
+          },
+          "tire3": {
+              "degradationPercentage": 51,
+              "km": 4021
+          },
+          "tire4": {
+              "degradationPercentage": 129,
+              "km": 4551
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 45,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 58,
+              "km": 4846
+          },
+          "tire2": {
+              "degradationPercentage": 52,
+              "km": 3886
+          },
+          "tire3": {
+              "degradationPercentage": 51,
+              "km": 4090
+          },
+          "tire4": {
+              "degradationPercentage": 131,
+              "km": 4609
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 80,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 59,
+              "km": 4910
+          },
+          "tire2": {
+              "degradationPercentage": 52,
+              "km": 3901
+          },
+          "tire3": {
+              "degradationPercentage": 53,
+              "km": 4154
+          },
+          "tire4": {
+              "degradationPercentage": 132,
+              "km": 4706
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 67,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 61,
+              "km": 4962
+          },
+          "tire2": {
+              "degradationPercentage": 53,
+              "km": 3938
+          },
+          "tire3": {
+              "degradationPercentage": 54,
+              "km": 4197
+          },
+          "tire4": {
+              "degradationPercentage": 134,
+              "km": 4723
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 82,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 61,
+              "km": 5055
+          },
+          "tire2": {
+              "degradationPercentage": 53,
+              "km": 4035
+          },
+          "tire3": {
+              "degradationPercentage": 54,
+              "km": 4250
+          },
+          "tire4": {
+              "degradationPercentage": 134,
+              "km": 4803
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 45,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 61,
+              "km": 5111
+          },
+          "tire2": {
+              "degradationPercentage": 55,
+              "km": 4076
+          },
+          "tire3": {
+              "degradationPercentage": 56,
+              "km": 4266
+          },
+          "tire4": {
+              "degradationPercentage": 134,
+              "km": 4888
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 110,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 63,
+              "km": 5138
+          },
+          "tire2": {
+              "degradationPercentage": 55,
+              "km": 4143
+          },
+          "tire3": {
+              "degradationPercentage": 58,
+              "km": 4334
+          },
+          "tire4": {
+              "degradationPercentage": 134,
+              "km": 4906
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 80,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 64,
+              "km": 5175
+          },
+          "tire2": {
+              "degradationPercentage": 55,
+              "km": 4238
+          },
+          "tire3": {
+              "degradationPercentage": 60,
+              "km": 4374
+          },
+          "tire4": {
+              "degradationPercentage": 135,
+              "km": 4987
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 120,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 64,
+              "km": 5254
+          },
+          "tire2": {
+              "degradationPercentage": 55,
+              "km": 4338
+          },
+          "tire3": {
+              "degradationPercentage": 60,
+              "km": 4404
+          },
+          "tire4": {
+              "degradationPercentage": 135,
+              "km": 5061
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 55,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 65,
+              "km": 5327
+          },
+          "tire2": {
+              "degradationPercentage": 57,
+              "km": 4358
+          },
+          "tire3": {
+              "degradationPercentage": 60,
+              "km": 4504
+          },
+          "tire4": {
+              "degradationPercentage": 135,
+              "km": 5084
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 63,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 65,
+              "km": 5397
+          },
+          "tire2": {
+              "degradationPercentage": 58,
+              "km": 4458
+          },
+          "tire3": {
+              "degradationPercentage": 61,
+              "km": 4587
+          },
+          "tire4": {
+              "degradationPercentage": 135,
+              "km": 5157
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 60,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 65,
+              "km": 5434
+          },
+          "tire2": {
+              "degradationPercentage": 58,
+              "km": 4530
+          },
+          "tire3": {
+              "degradationPercentage": 63,
+              "km": 4627
+          },
+          "tire4": {
+              "degradationPercentage": 136,
+              "km": 5228
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 98,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 65,
+              "km": 5454
+          },
+          "tire2": {
+              "degradationPercentage": 58,
+              "km": 4612
+          },
+          "tire3": {
+              "degradationPercentage": 63,
+              "km": 4673
+          },
+          "tire4": {
+              "degradationPercentage": 136,
+              "km": 5328
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 98,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 67,
+              "km": 5479
+          },
+          "tire2": {
+              "degradationPercentage": 58,
+              "km": 4631
+          },
+          "tire3": {
+              "degradationPercentage": 65,
+              "km": 4689
+          },
+          "tire4": {
+              "degradationPercentage": 138,
+              "km": 5341
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 70,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 67,
+              "km": 5542
+          },
+          "tire2": {
+              "degradationPercentage": 58,
+              "km": 4701
+          },
+          "tire3": {
+              "degradationPercentage": 65,
+              "km": 4744
+          },
+          "tire4": {
+              "degradationPercentage": 139,
+              "km": 5371
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 100,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 67,
+              "km": 5585
+          },
+          "tire2": {
+              "degradationPercentage": 59,
+              "km": 4747
+          },
+          "tire3": {
+              "degradationPercentage": 65,
+              "km": 4801
+          },
+          "tire4": {
+              "degradationPercentage": 141,
+              "km": 5420
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 63,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 69,
+              "km": 5602
+          },
+          "tire2": {
+              "degradationPercentage": 61,
+              "km": 4783
+          },
+          "tire3": {
+              "degradationPercentage": 65,
+              "km": 4866
+          },
+          "tire4": {
+              "degradationPercentage": 142,
+              "km": 5451
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 60,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 71,
+              "km": 5618
+          },
+          "tire2": {
+              "degradationPercentage": 61,
+              "km": 4793
+          },
+          "tire3": {
+              "degradationPercentage": 65,
+              "km": 4962
+          },
+          "tire4": {
+              "degradationPercentage": 144,
+              "km": 5502
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 63,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 72,
+              "km": 5685
+          },
+          "tire2": {
+              "degradationPercentage": 61,
+              "km": 4868
+          },
+          "tire3": {
+              "degradationPercentage": 65,
+              "km": 4990
+          },
+          "tire4": {
+              "degradationPercentage": 144,
+              "km": 5580
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 65,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 72,
+              "km": 5726
+          },
+          "tire2": {
+              "degradationPercentage": 63,
+              "km": 4894
+          },
+          "tire3": {
+              "degradationPercentage": 65,
+              "km": 5073
+          },
+          "tire4": {
+              "degradationPercentage": 145,
+              "km": 5624
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 85,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 72,
+              "km": 5803
+          },
+          "tire2": {
+              "degradationPercentage": 63,
+              "km": 4909
+          },
+          "tire3": {
+              "degradationPercentage": 65,
+              "km": 5137
+          },
+          "tire4": {
+              "degradationPercentage": 145,
+              "km": 5677
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 50,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 74,
+              "km": 5853
+          },
+          "tire2": {
+              "degradationPercentage": 65,
+              "km": 4930
+          },
+          "tire3": {
+              "degradationPercentage": 65,
+              "km": 5219
+          },
+          "tire4": {
+              "degradationPercentage": 146,
+              "km": 5758
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 125,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 74,
+              "km": 5864
+          },
+          "tire2": {
+              "degradationPercentage": 65,
+              "km": 5019
+          },
+          "tire3": {
+              "degradationPercentage": 65,
+              "km": 5306
+          },
+          "tire4": {
+              "degradationPercentage": 148,
+              "km": 5814
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 84,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 74,
+              "km": 5893
+          },
+          "tire2": {
+              "degradationPercentage": 65,
+              "km": 5029
+          },
+          "tire3": {
+              "degradationPercentage": 67,
+              "km": 5396
+          },
+          "tire4": {
+              "degradationPercentage": 148,
+              "km": 5883
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 83,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 76,
+              "km": 5976
+          },
+          "tire2": {
+              "degradationPercentage": 67,
+              "km": 5081
+          },
+          "tire3": {
+              "degradationPercentage": 68,
+              "km": 5406
+          },
+          "tire4": {
+              "degradationPercentage": 149,
+              "km": 5894
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 42,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 76,
+              "km": 6009
+          },
+          "tire2": {
+              "degradationPercentage": 67,
+              "km": 5094
+          },
+          "tire3": {
+              "degradationPercentage": 69,
+              "km": 5453
+          },
+          "tire4": {
+              "degradationPercentage": 151,
+              "km": 5919
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 100,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 77,
+              "km": 6040
+          },
+          "tire2": {
+              "degradationPercentage": 68,
+              "km": 5141
+          },
+          "tire3": {
+              "degradationPercentage": 70,
+              "km": 5531
+          },
+          "tire4": {
+              "degradationPercentage": 153,
+              "km": 6017
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 50,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 77,
+              "km": 6120
+          },
+          "tire2": {
+              "degradationPercentage": 69,
+              "km": 5216
+          },
+          "tire3": {
+              "degradationPercentage": 70,
+              "km": 5569
+          },
+          "tire4": {
+              "degradationPercentage": 155,
+              "km": 6088
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 140,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 79,
+              "km": 6151
+          },
+          "tire2": {
+              "degradationPercentage": 71,
+              "km": 5278
+          },
+          "tire3": {
+              "degradationPercentage": 71,
+              "km": 5606
+          },
+          "tire4": {
+              "degradationPercentage": 157,
+              "km": 6172
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 63,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 79,
+              "km": 6240
+          },
+          "tire2": {
+              "degradationPercentage": 72,
+              "km": 5353
+          },
+          "tire3": {
+              "degradationPercentage": 73,
+              "km": 5617
+          },
+          "tire4": {
+              "degradationPercentage": 159,
+              "km": 6256
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 66,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 79,
+              "km": 6280
+          },
+          "tire2": {
+              "degradationPercentage": 72,
+              "km": 5394
+          },
+          "tire3": {
+              "degradationPercentage": 74,
+              "km": 5644
+          },
+          "tire4": {
+              "degradationPercentage": 159,
+              "km": 6292
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 140,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 80,
+              "km": 6329
+          },
+          "tire2": {
+              "degradationPercentage": 72,
+              "km": 5461
+          },
+          "tire3": {
+              "degradationPercentage": 74,
+              "km": 5686
+          },
+          "tire4": {
+              "degradationPercentage": 160,
+              "km": 6319
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 85,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 80,
+              "km": 6401
+          },
+          "tire2": {
+              "degradationPercentage": 72,
+              "km": 5550
+          },
+          "tire3": {
+              "degradationPercentage": 74,
+              "km": 5727
+          },
+          "tire4": {
+              "degradationPercentage": 162,
+              "km": 6348
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 63,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 80,
+              "km": 6455
+          },
+          "tire2": {
+              "degradationPercentage": 74,
+              "km": 5589
+          },
+          "tire3": {
+              "degradationPercentage": 74,
+              "km": 5805
+          },
+          "tire4": {
+              "degradationPercentage": 163,
+              "km": 6400
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 80,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 80,
+              "km": 6515
+          },
+          "tire2": {
+              "degradationPercentage": 76,
+              "km": 5667
+          },
+          "tire3": {
+              "degradationPercentage": 74,
+              "km": 5861
+          },
+          "tire4": {
+              "degradationPercentage": 165,
+              "km": 6428
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 50,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 80,
+              "km": 6564
+          },
+          "tire2": {
+              "degradationPercentage": 76,
+              "km": 5704
+          },
+          "tire3": {
+              "degradationPercentage": 74,
+              "km": 5895
+          },
+          "tire4": {
+              "degradationPercentage": 166,
+              "km": 6479
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 65,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 80,
+              "km": 6629
+          },
+          "tire2": {
+              "degradationPercentage": 76,
+              "km": 5741
+          },
+          "tire3": {
+              "degradationPercentage": 75,
+              "km": 5940
+          },
+          "tire4": {
+              "degradationPercentage": 166,
+              "km": 6538
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 20,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 81,
+              "km": 6689
+          },
+          "tire2": {
+              "degradationPercentage": 76,
+              "km": 5822
+          },
+          "tire3": {
+              "degradationPercentage": 76,
+              "km": 5982
+          },
+          "tire4": {
+              "degradationPercentage": 166,
+              "km": 6584
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 80,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 81,
+              "km": 6739
+          },
+          "tire2": {
+              "degradationPercentage": 77,
+              "km": 5904
+          },
+          "tire3": {
+              "degradationPercentage": 77,
+              "km": 6028
+          },
+          "tire4": {
+              "degradationPercentage": 167,
+              "km": 6617
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 65,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 82,
+              "km": 6762
+          },
+          "tire2": {
+              "degradationPercentage": 78,
+              "km": 5936
+          },
+          "tire3": {
+              "degradationPercentage": 77,
+              "km": 6125
+          },
+          "tire4": {
+              "degradationPercentage": 168,
+              "km": 6627
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 60,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 82,
+              "km": 6776
+          },
+          "tire2": {
+              "degradationPercentage": 78,
+              "km": 6034
+          },
+          "tire3": {
+              "degradationPercentage": 77,
+              "km": 6146
+          },
+          "tire4": {
+              "degradationPercentage": 170,
+              "km": 6663
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 65,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 82,
+              "km": 6795
+          },
+          "tire2": {
+              "degradationPercentage": 79,
+              "km": 6123
+          },
+          "tire3": {
+              "degradationPercentage": 77,
+              "km": 6228
+          },
+          "tire4": {
+              "degradationPercentage": 170,
+              "km": 6705
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 100,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 82,
+              "km": 6868
+          },
+          "tire2": {
+              "degradationPercentage": 79,
+              "km": 6153
+          },
+          "tire3": {
+              "degradationPercentage": 77,
+              "km": 6308
+          },
+          "tire4": {
+              "degradationPercentage": 172,
+              "km": 6728
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 73,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 82,
+              "km": 6965
+          },
+          "tire2": {
+              "degradationPercentage": 81,
+              "km": 6193
+          },
+          "tire3": {
+              "degradationPercentage": 77,
+              "km": 6384
+          },
+          "tire4": {
+              "degradationPercentage": 174,
+              "km": 6793
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 130,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 82,
+              "km": 6996
+          },
+          "tire2": {
+              "degradationPercentage": 83,
+              "km": 6237
+          },
+          "tire3": {
+              "degradationPercentage": 77,
+              "km": 6451
+          },
+          "tire4": {
+              "degradationPercentage": 176,
+              "km": 6879
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 87,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 82,
+              "km": 7095
+          },
+          "tire2": {
+              "degradationPercentage": 83,
+              "km": 6334
+          },
+          "tire3": {
+              "degradationPercentage": 77,
+              "km": 6545
+          },
+          "tire4": {
+              "degradationPercentage": 176,
+              "km": 6969
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 75,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 82,
+              "km": 7139
+          },
+          "tire2": {
+              "degradationPercentage": 85,
+              "km": 6417
+          },
+          "tire3": {
+              "degradationPercentage": 77,
+              "km": 6581
+          },
+          "tire4": {
+              "degradationPercentage": 177,
+              "km": 7023
+          }
+      }
+  },
+  {
+      "username": "priyam",
+      "carNo": "UP93H003",
+      "speedData": 85,
+      "tireData": {
+          "tire1": {
+              "degradationPercentage": 84,
+              "km": 7188
+          },
+          "tire2": {
+              "degradationPercentage": 86,
+              "km": 6511
+          },
+          "tire3": {
+              "degradationPercentage": 79,
+              "km": 6644
+          },
+          "tire4": {
+              "degradationPercentage": 177,
+              "km": 7098
+          }
+      }
+  }
+]
