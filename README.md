@@ -20,6 +20,9 @@ The **Tire Monitoring System** is designed to help vehicle owners maintain tire 
 - **Joblib** (for tire life prediction model)
 - **IoT Sensors** (to collect tire degradation data)
 - **Git** and **GitHub** (for version control and collaboration)
+- **NodeJs** and **expressJs** (for managing entire proccess)
+- **Mongodb** (for storing user/car information)
+- **HMTL CSS JS** (for frontend)
 
 ## Dependencies
 # Python Dependencies
