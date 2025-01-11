@@ -34,7 +34,7 @@ const tireSchema = new mongoose.Schema({
     type: [Number], // Array of numbers
     validate: {
       validator: function (v) {
-        return v.length <= 20; // Max size of 10
+        return v.length <= 20; // Max size of 20
       },
       message: 'Degradation graph can have a maximum of 20 entries.',
     },
