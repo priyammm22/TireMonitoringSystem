@@ -268,7 +268,7 @@ function calculateAverageDrivingPattern(DrivingPatternArray) {
       if (pattern === "smooth") return 1;
       if (pattern === "moderate") return 2;
       if (pattern === "aggressive") return 3;
-      return 0; 
+      return 0;
   });
 
  
